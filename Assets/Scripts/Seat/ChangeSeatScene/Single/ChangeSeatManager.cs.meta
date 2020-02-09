@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 753090f25d53b413eab3f305591bee6d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - horizontalObject: {fileID: 3936923591386996303, guid: f2e2822851a0049df98863218a0926a9,
+      type: 3}
+  - seatObject: {fileID: 6596766084735441776, guid: 88ef80a5d5fcc422fb15b40aa96fbe3d,
+      type: 3}
+  - errorArea: {instanceID: 0}
+  - errorText: {instanceID: 0}
+  - randomOpenButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
